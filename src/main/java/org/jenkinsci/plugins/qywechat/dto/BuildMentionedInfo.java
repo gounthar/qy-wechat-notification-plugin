@@ -1,7 +1,6 @@
 package org.jenkinsci.plugins.qywechat.dto;
 
 import org.jenkinsci.plugins.qywechat.model.NotificationConfig;
-import hudson.model.Result;
 import hudson.model.Run;
 import net.sf.json.JSONObject;
 import org.apache.commons.lang.StringUtils;
